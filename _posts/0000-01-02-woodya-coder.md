@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 --
-Your text
+I have nothing witty to say but everything woody to say.
 Use the left arrow to go back!
